@@ -1,4 +1,4 @@
-##Web-game Tic-tac-toe
+## Web-game Tic-tac-toe
 ```
 Done by 
 Julia -main code, comments
